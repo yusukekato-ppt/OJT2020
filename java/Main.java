@@ -1,5 +1,8 @@
 class Main {
+ // TEST 2020.07.15
  public static void main(String[] args) {
-   System.out.println("Hello, Beatutiful world.");
+   for (int i=0; i <10 ; i++) {
+     System.out.println("Hello, Beatutiful world.");
+   }
  }
 }
